@@ -6,5 +6,5 @@ permalink: /teaching/
 
 # Teaching assistant
 
-Theoretical mechanics (summer term 2017) HHU Duesseldorf
+Theoretical mechanics - Summer term 2017 - [University of Duesseldorf](https://www.uni-duesseldorf.de/home/startseite.html)
 
