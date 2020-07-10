@@ -11,7 +11,7 @@ In my leisure time I enjoy playing bass in my band [Dystopera](https://www.faceb
 
 #### Fragile Heart
 
-This song is called *Fragile Heart* and was recorded at the recording studio of our awesome drummer Fabian. All mixing and mastering credits go to him. The music video was produced by Mortzii.
+This song is called *Fragile Heart* and was recorded at the recording studio of our awesome drummer Fabian. All mixing and mastering credits go to him. The music video was produced by [Mortzii](https://medienbrauerei.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GyIqwII_Nu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
