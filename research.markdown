@@ -16,7 +16,19 @@ Thomas J, Kostyukov IY, __Pronold J__, Golovanov A, Pukhov A (2016), _Physics of
 __Meeting the performance challenges of spiking network simulations on general purpose computers__  
 _RCCS Seminar - Kobe, Japan - 11th of June 2019_
 
+# Preprints
+[__Usage and Scaling of an Open-Source Spiking Multi-Area Model of Monkey Cortex__](https://arxiv.org/abs/2011.11335)  
+van Albada SJ, __Pronold J__, van Meegen A, Diesmann M
+
 # Poster
+
+__Cache friendly algorithms for spiking neural network simulations on general purpose computers__  
+__Jari Pronold__, Jakob Jordan, Markus Diesmann, Susanne Kunkel  
+_POF IV P2 Topic 3 Kick-Off - Forschungszentrum Jülich - 2021_
+
+__Overcoming the von-Neumann Bottleneck: Cache friendly algorithms for neural network simulations__  
+__Jari Pronold__, Jakob Jordan, Markus Diesmann, Susanne Kunkel  
+_ACA Annual Meeting - Forschungszentrum Jülich - 2021_
 
 __Modeling and simulating multi-area spiking cortical network models__  
 __Jari Pronold__, Alexander van Meegen, Hannah Vollenbröker, Rembrandt Bakker, Markus Diesmannm, Sacha van Albada  
@@ -24,7 +36,7 @@ _NIC Symposium - Forschungszentrum Jülich - 2020_
 
 __Multi-area model of macaque cortex as a scaffold model and workflow testcase__  
 Anno Kurth, Aitor Morales-Gregorio, Alexander van Meegen, __Jari Pronold__, Agnes Korcsak-Gorzo, Hannah Vollenbröker, Rembrandt Bakker, Markus Diesmann, Sacha van Albada  
-_Human Brain Project Summit - - 2020_
+_Human Brain Project Summit - 2020_
 
 __Multi-area spiking network models of macaque and humancortices__  
 __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Aitor Morales-Gregorio, Sacha van Albada  
