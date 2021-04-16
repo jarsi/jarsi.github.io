@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Education
 
-__PhD__ - [Institute for computational and systems neuroscience, Forschungszentrum Jülich](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html)  
+__PhD Candidate__ - [Institute for computational and systems neuroscience, Forschungszentrum Jülich](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html)  
 *Supervisor:* Sacha van Albada, Susanne Kunkel, Markus Diesmann  
 _December 2017 - Today_
 
@@ -23,31 +23,33 @@ _October 2011 - September 2015_
 
 # Teaching assistant
 
-Theoretical mechanics - Summer term 2017 - [University of Duesseldorf](https://www.uni-duesseldorf.de/home/startseite.html)
+NEST Tutorial -- 19.1 - 21.1.2021 -- [University of Cologne](https://portal.uni-koeln.de/en/sub/uoc-home)
+
+Theoretical mechanics -- Summer term 2017 -- [University of Duesseldorf](https://www.uni-duesseldorf.de/home/startseite.html)
 
 # Misc
 
 __3rd place__ with [project Bayerchain at Bayer digital challenge 2017](https://twitter.com/BayerKarriere/status/940991035970408449)  
 This project explored the usage of Blockchains for supply chain tracking of medical products to ensure high quality products to consumers in countries with high pharmaceutical fraud. It was pitched to Bayer on the 13th of December 2017 at a competition aiming to answer the question "How will Bayer look like in 2030"
 
-__Internship__ with [SMS Siemag](https://www.sms-group.com/)
+__Internship__ with [SMS Siemag](https://www.sms-group.com/), 2013
 
-__Semester abroad__ at the [University of Oulu](https://www.oulu.fi/university/)
+__Semester abroad__ at the [University of Oulu](https://www.oulu.fi/university/), 2015
 
 # Programming
 
-__C++__ - Fluent  
-__Python__ - Fluent  
-__Bash__ - Fluent  
-__Git__ - Fluent  
-__Matlab__ - Fluent
+__C++__ -- Fluent  
+__Python__ -- Fluent  
+__Bash__ -- Fluent  
+__Git__ -- Fluent  
+__Matlab__ -- Fluent
 
 # Languages
 
-__German__ - Mother tongue  
-__Finnish__ - Mother tongue  
-__English__ - Fluent  
-__French__ - Basic
+__German__ -- Mother tongue  
+__Finnish__ -- Mother tongue  
+__English__ -- Fluent  
+__French__ -- Basic
 
 # Music
 
