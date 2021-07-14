@@ -22,6 +22,14 @@ van Albada SJ, __Pronold J__, van Meegen A, Diesmann M
 
 # Poster
 
+__Multi-scale spiking network model of human cortex__  
+__Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Hannah Vollenbröker, Sacha van Albada  
+_30th Annual Computational Neuroscience Meeting - Online - 2021_
+
+__Sub realtime simulation of a full density cortical microcircuit model on a single compute node__  
+Anno Kurth, Justin Finnerty, Dennis Terhorst, __Jari Pronold__, Johanna Senk, Markus Diesmann  
+_NEST conference - Online - 2021_
+
 __Cache friendly algorithms for spiking neural network simulations on general purpose computers__  
 __Jari Pronold__, Jakob Jordan, Markus Diesmann, Susanne Kunkel  
 _POF IV P2 Topic 3 Kick-Off - Forschungszentrum Jülich - 2021_
@@ -55,6 +63,9 @@ __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Sacha van Albada
 _NEST conference - Ås, Norway - 2018_
 
 # Software
+[__NEST 3.0__](https://zenodo.org/record/4739103)  
+Jan Hahne, Sandra Diaz, Alexander Patronis, Wolfram Schenck, Alexander Peyser, Steffen Graber, Sebastian Spreizer, Stine Brekke Vennemo, Tammo Ippen, Håkon Mørk, Jakob Jordan, Johanna Senk, Sara Konradi, Philipp Weidel, Tanguy Fardet, David Dahmen, Dennis Terhorst, Jonas Stapmanns, Guido Trensch, Alexander van Meegen, __Jari Pronold__, Jochen Martin Eppler, Charl Linssen, Abigail Morrison, Ankur Sinha, Jessica Mitchell, Susanne Kunkel, Rajalekshmi Deepu, Espen Hagen, Tom Vierjahn, Nilton Liuji Kamiji, Robin de Schepper, Pedro Machado, Jasper Albers, Wouter Klijn, Alex Myczko, William Mayner, Pooja Nagendra Babu, Hanjia Jiang, Sebastian Billaudelle, Benedikt S. Vogler, Guilherme Miotto, Alberto Antonietti, Aitor Morales-Gregorio, Joris Dolderer, Younes Bouhadjar, Hans Ekkehard Plesser
+
 [__NEST 2.18.0__](https://zenodo.org/record/2605422 )  
 Jakob Jordan, Håkon Mørk, Stine Brekke Vennemo, Dennis Terhorst, Alexander Peyser, Tammo Ippen, Rajalekshmi Deepu, Jochen Martin Eppler, Alexander van Meegen, Susanne Kunkel, Ankur Sinha, Tanguy Fardet, Sandra Diaz, Abigail Morrison, Wolfram Schenck, David Dahmen, __Jari Pronold__, Jonas Stapmanns, Guido Trensch, Sebastian Spreizer, Jessica Mitchell, Steffen Graber, Johanna Senk, Charl Linssen, Jan Hahne, Alexey Serenko, Daniel Naoumenko, Eric Thomson, Itaru Kitayama, Sebastian Berns, Hans Ekkehard Plesser
 
