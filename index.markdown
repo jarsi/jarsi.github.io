@@ -9,7 +9,7 @@ layout: home
 
 <img src="jari_zoomed.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;"
+     style="float: right; margin-left: 10px;"
       width="400"
       />
 
