@@ -32,6 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+exclude: ['Gemfile', 'Gemfile.lock']
+header_pages:
+  - research.markdown
+  - cv.markdown
+  - music.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
