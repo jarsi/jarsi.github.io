@@ -21,8 +21,6 @@
 title: Home
 email: jari.pronold@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are not going in circles, we are going upwards. The path is a spiral; we
-  have already climbed many steps.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
