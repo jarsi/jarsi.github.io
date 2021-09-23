@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-permalink: /music/
+permalink: music
 ---
 
 In my leisure time I enjoy playing bass in my band [Dystopera](https://www.facebook.com/dystoperamusic/). We play alternative rock influenced by bands such as Tool and Karnivool. At the moment we spend quite some time in our rehearsal space recording and rehearsing new material. Our aim is to release an album at some point in the near future. Some of our older work can be listened to and watched on youtube.
