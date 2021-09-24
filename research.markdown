@@ -6,7 +6,7 @@ permalink: research
 
 # Peer reviewed papers
 [__Usage and Scaling of an Open-Source Spiking Multi-Area Model of Monkey Cortex__](https://link.springer.com/chapter/10.1007/978-3-030-82427-3_4)  
-van Albada SJ, __Pronold J__, van Meegen A, Diesmann M
+van Albada SJ, __Pronold J__, van Meegen A, Diesmann M (2021), _Brain-Inspired Computing_
 
 [__External electron injection, trapping, and emittance evolution in the blow-out regime__](https://doi.org/10.1063/1.5045355)  
 __Pronold J__, Thomas J, Pukhov J (2018), _Physics of Plasmas_
@@ -14,6 +14,10 @@ __Pronold J__, Thomas J, Pukhov J (2018), _Physics of Plasmas_
 
 [__Non-linear theory of a cavitated plasma wake in a plasma channel for special applications and control__](https://doi.org/10.1063/1.4948712)  
 Thomas J, Kostyukov IY, __Pronold J__, Golovanov A, Pukhov A (2016), _Physics of Plasmas_
+
+# Preprints
+[__Routing brain traffic through the von Neumann bottleneck: Parallel sorting and refactoring__](https://arxiv.org/abs/2109.11358)  
+__Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _arXiv_
 
 # Talks
 __Meeting the performance challenges of spiking network simulations on general purpose computers__  
