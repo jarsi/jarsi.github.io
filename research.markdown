@@ -42,7 +42,7 @@ __Jari Pronold__, Jakob Jordan, Markus Diesmann, Susanne Kunkel
 _ACA Annual Meeting - Forschungszentrum Jülich - 2021_
 
 __Modeling and simulating multi-area spiking cortical network models__  
-__Jari Pronold__, Alexander van Meegen, Hannah Vollenbröker, Rembrandt Bakker, Markus Diesmannm, Sacha van Albada  
+__Jari Pronold__, Alexander van Meegen, Hannah Vollenbröker, Rembrandt Bakker, Markus Diesmann, Sacha van Albada  
 _NIC Symposium - Forschungszentrum Jülich - 2020_
 
 __Multi-area model of macaque cortex as a scaffold model and workflow testcase__  
@@ -61,7 +61,7 @@ __Multi-area spiking network model of human visual cortex__
 __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Sacha van Albada  
 _INM-ICS Retreat - Forschungszentrum Jülich - 2018_
 
-__Multi-area spiking network models of macaque and human visual cortice__  
+__Multi-area spiking network models of macaque and human visual cortices__  
 __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Sacha van Albada  
 _NEST conference - Ås, Norway - 2018_
 
