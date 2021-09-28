@@ -19,6 +19,9 @@ Thomas J, Kostyukov IY, __Pronold J__, Golovanov A, Pukhov A (2016), _Physics of
 [__Routing brain traffic through the von Neumann bottleneck: Parallel sorting and refactoring__](https://arxiv.org/abs/2109.11358)  
 __Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _arXiv_
 
+[__Routing brain traffic through the von Neumann bottleneck: Efficient cache usage in spiking neural network simulation code on general purpose computers__](https://arxiv.org/abs/2109.12855)  
+__Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _arXiv_
+
 # Talks
 __Meeting the performance challenges of spiking network simulations on general purpose computers__  
 _RCCS Seminar - Kobe, Japan - 11th of June 2019_
