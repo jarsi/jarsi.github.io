@@ -28,9 +28,13 @@ _RCCS Seminar - Kobe, Japan - 11th of June 2019_
 
 # Poster
 
+__A multi-scale spiking network model of human cortex__  
+__Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Hannah Vollenbröker, Sacha van Albada  
+_HBP Summit - Online - 2021_
+
 __Is our current knowledge on structural connectivity of human cortex compatible with measured activity?__  
 __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Hannah Vollenbröker, Sacha van Albada  
-_INm & IBI Retreat - Online - 2021_
+_INM & IBI Retreat - Online - 2021_
 
 __Multi-scale spiking network model of human cortex__  
 __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Hannah Vollenbröker, Sacha van Albada  
