@@ -16,6 +16,9 @@ __Pronold J__, Thomas J, Pukhov J (2018), _Physics of Plasmas_
 Thomas J, Kostyukov IY, __Pronold J__, Golovanov A, Pukhov A (2016), _Physics of Plasmas_
 
 # Preprints
+[__A Modular Workflow for Performance Benchmarking of Neuronal Network Simulations__](https://arxiv.org/abs/2112.09018)  
+Albers J, __Pronold J__, Kurth AC, Vennemo SB, Mood KH, Patronis A, Terhorst D, Jordan J, Kunkel S, Tetzlaff T, Diesmann M, Senk J (2021), _arXiv_
+
 [__Routing brain traffic through the von Neumann bottleneck: Parallel sorting and refactoring__](https://arxiv.org/abs/2109.11358)  
 __Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _arXiv_
 
