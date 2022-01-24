@@ -80,6 +80,9 @@ __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Sacha van Albada
 _NEST conference - Ås, Norway - 2018_
 
 # Software
+[__NEST 3.2__](https://doi.org/10.5281/zenodo.5886894)  
+Robin de Schepper, Jochen Martin Eppler, Anno Kurth, Pooja Nagendra Babu, Rajalekshmi Deepu, Sebastian Spreizer, Guido Trensch, Jari Pronold, Stine Brekke Vennemo, Steffen Graber, Aitor Morales-Gregorio, Charl Linssen, Mohamed Ayssar Benelhedi, Håkon Mørk, Abigail Morrison, Dennis Terhorst, Jessica Mitchell, Sandra Diaz, Itaru Kitayama, Mahdi Enan, Nilton Liuji Kamiji, Hans Ekkehard Plesser
+
 [__NEST 3.0__](https://zenodo.org/record/4739103)  
 Jan Hahne, Sandra Diaz, Alexander Patronis, Wolfram Schenck, Alexander Peyser, Steffen Graber, Sebastian Spreizer, Stine Brekke Vennemo, Tammo Ippen, Håkon Mørk, Jakob Jordan, Johanna Senk, Sara Konradi, Philipp Weidel, Tanguy Fardet, David Dahmen, Dennis Terhorst, Jonas Stapmanns, Guido Trensch, Alexander van Meegen, __Jari Pronold__, Jochen Martin Eppler, Charl Linssen, Abigail Morrison, Ankur Sinha, Jessica Mitchell, Susanne Kunkel, Rajalekshmi Deepu, Espen Hagen, Tom Vierjahn, Nilton Liuji Kamiji, Robin de Schepper, Pedro Machado, Jasper Albers, Wouter Klijn, Alex Myczko, William Mayner, Pooja Nagendra Babu, Hanjia Jiang, Sebastian Billaudelle, Benedikt S. Vogler, Guilherme Miotto, Alberto Antonietti, Aitor Morales-Gregorio, Joris Dolderer, Younes Bouhadjar, Hans Ekkehard Plesser
 
