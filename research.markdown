@@ -80,14 +80,21 @@ __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Sacha van Albada
 _NEST conference - Ås, Norway - 2018_
 
 # Software
-[__NEST 3.2__](https://doi.org/10.5281/zenodo.5886894)  
-Robin de Schepper, Jochen Martin Eppler, Anno Kurth, Pooja Nagendra Babu, Rajalekshmi Deepu, Sebastian Spreizer, Guido Trensch, Jari Pronold, Stine Brekke Vennemo, Steffen Graber, Aitor Morales-Gregorio, Charl Linssen, Mohamed Ayssar Benelhedi, Håkon Mørk, Abigail Morrison, Dennis Terhorst, Jessica Mitchell, Sandra Diaz, Itaru Kitayama, Mahdi Enan, Nilton Liuji Kamiji, Hans Ekkehard Plesser
 
-[__NEST 3.0__](https://zenodo.org/record/4739103)  
-Jan Hahne, Sandra Diaz, Alexander Patronis, Wolfram Schenck, Alexander Peyser, Steffen Graber, Sebastian Spreizer, Stine Brekke Vennemo, Tammo Ippen, Håkon Mørk, Jakob Jordan, Johanna Senk, Sara Konradi, Philipp Weidel, Tanguy Fardet, David Dahmen, Dennis Terhorst, Jonas Stapmanns, Guido Trensch, Alexander van Meegen, __Jari Pronold__, Jochen Martin Eppler, Charl Linssen, Abigail Morrison, Ankur Sinha, Jessica Mitchell, Susanne Kunkel, Rajalekshmi Deepu, Espen Hagen, Tom Vierjahn, Nilton Liuji Kamiji, Robin de Schepper, Pedro Machado, Jasper Albers, Wouter Klijn, Alex Myczko, William Mayner, Pooja Nagendra Babu, Hanjia Jiang, Sebastian Billaudelle, Benedikt S. Vogler, Guilherme Miotto, Alberto Antonietti, Aitor Morales-Gregorio, Joris Dolderer, Younes Bouhadjar, Hans Ekkehard Plesser
+## NEST Simulator
+[__NEST 3.2__](https://doi.org/10.5281/zenodo.5886894)
 
-[__NEST 2.18.0__](https://zenodo.org/record/2605422 )  
-Jakob Jordan, Håkon Mørk, Stine Brekke Vennemo, Dennis Terhorst, Alexander Peyser, Tammo Ippen, Rajalekshmi Deepu, Jochen Martin Eppler, Alexander van Meegen, Susanne Kunkel, Ankur Sinha, Tanguy Fardet, Sandra Diaz, Abigail Morrison, Wolfram Schenck, David Dahmen, __Jari Pronold__, Jonas Stapmanns, Guido Trensch, Sebastian Spreizer, Jessica Mitchell, Steffen Graber, Johanna Senk, Charl Linssen, Jan Hahne, Alexey Serenko, Daniel Naoumenko, Eric Thomson, Itaru Kitayama, Sebastian Berns, Hans Ekkehard Plesser
+[__NEST 3.0__](https://zenodo.org/record/4739103)
 
-[__NEST 2.16.0__](https://zenodo.org/record/1400175)  
-Charl Linssen, Mikkel Elle Lepperød, Jessica Mitchell, __Jari Pronold__, Jochen Martin Eppler, Chrisitan Keup, Alexander Peyser, Susanne Kunkel, Philipp Weidel, Yannick Nodem, Dennis Terhorst, Rajalekshmi Deepu, Moritz Deger, Jan Hahne, Ankur Sinha, Alberto Antonietti, Maximilian Schmidt, Luciano Paz, Jesús Garrido, Tammo Ippen, Luis Riquelme, Alex Serenko Tobias Kühn, Itaru Kitayama, Håkon Mørk, Sebastian Spreizer, Jakob Jordan, Jeyashree Krishnan, Mario Senden, Espen Hagen, Alexey Shusharin, Stine Brekke Vennemo, Dimitri Rodarie, Abigail Morrison, Steffen Graber, Jannis Schuecker, Sandra Diaz, Barna Zajzon, Hans Ekkehard Plesser
+[__NEST 2.18.0__](https://zenodo.org/record/2605422)
+
+[__NEST 2.16.0__](https://zenodo.org/record/1400175)
+
+[__NEST 2.14.1__](https://zenodo.org/record/4018724)
+
+## Benchmarking
+[__beNNch__](https://github.com/INM-6/beNNch)
+
+[__beNNch-models__](https://github.com/INM-6/beNNch-models)
+
+[__beNNch-plot](https://github.com/INM-6/beNNch-plot)
