@@ -4,7 +4,7 @@ title: Research
 permalink: research
 ---
 
-# Peer reviewed papers
+# __Peer reviewed papers__
 [__Usage and Scaling of an Open-Source Spiking Multi-Area Model of Monkey Cortex__](https://link.springer.com/chapter/10.1007/978-3-030-82427-3_4)  
 van Albada SJ, __Pronold J__, van Meegen A, Diesmann M (2021), _Brain-Inspired Computing_
 
@@ -15,7 +15,7 @@ __Pronold J__, Thomas J, Pukhov J (2018), _Physics of Plasmas_
 [__Non-linear theory of a cavitated plasma wake in a plasma channel for special applications and control__](https://doi.org/10.1063/1.4948712)  
 Thomas J, Kostyukov IY, __Pronold J__, Golovanov A, Pukhov A (2016), _Physics of Plasmas_
 
-# Preprints
+# __Preprints__
 [__A Modular Workflow for Performance Benchmarking of Neuronal Network Simulations__](https://arxiv.org/abs/2112.09018)  
 Albers J, __Pronold J__, Kurth AC, Vennemo SB, Mood KH, Patronis A, Terhorst D, Jordan J, Kunkel S, Tetzlaff T, Diesmann M, Senk J (2021), _arXiv_
 
@@ -25,11 +25,11 @@ __Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _arXi
 [__Routing brain traffic through the von Neumann bottleneck: Efficient cache usage in spiking neural network simulation code on general purpose computers__](https://arxiv.org/abs/2109.12855)  
 __Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _arXiv_
 
-# Talks
+# __Talks__
 __Meeting the performance challenges of spiking network simulations on general purpose computers__  
 _RCCS Seminar - Kobe, Japan - 11th of June 2019_
 
-# Poster
+# __Poster__
 
 __A multi-scale spiking network model of human cortex__  
 __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Hannah Vollenbröker, Sacha van Albada  
@@ -79,22 +79,18 @@ __Multi-area spiking network models of macaque and human visual cortices__
 __Jari Pronold__, Alexander van Meegen, Rembrandt Bakker, Sacha van Albada  
 _NEST conference - Ås, Norway - 2018_
 
-# Software
+# __Software__
 
-## NEST Simulator
-[__NEST 3.2__](https://doi.org/10.5281/zenodo.5886894)
+__NEST Simulator__
 
-[__NEST 3.0__](https://zenodo.org/record/4739103)
-
-[__NEST 2.18.0__](https://zenodo.org/record/2605422)
-
-[__NEST 2.16.0__](https://zenodo.org/record/1400175)
-
+[__NEST 3.2__](https://doi.org/10.5281/zenodo.5886894)  
+[__NEST 3.0__](https://zenodo.org/record/4739103)  
+[__NEST 2.18.0__](https://zenodo.org/record/2605422)  
+[__NEST 2.16.0__](https://zenodo.org/record/1400175)  
 [__NEST 2.14.1__](https://zenodo.org/record/4018724)
 
-## Benchmarking
-[__beNNch__](https://github.com/INM-6/beNNch)
+__Benchmarking__
 
-[__beNNch-models__](https://github.com/INM-6/beNNch-models)
-
-[__beNNch-plot](https://github.com/INM-6/beNNch-plot)
+[__beNNch__](https://github.com/INM-6/beNNch)  
+[__beNNch-models__](https://github.com/INM-6/beNNch-models)  
+[__beNNch-plot__](https://github.com/INM-6/beNNch-plot)
