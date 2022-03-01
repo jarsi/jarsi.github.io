@@ -5,12 +5,14 @@ permalink: research
 ---
 
 # __Peer reviewed papers__
+[__Routing Brain Traffic Through the Von Neumann Bottleneck: Parallel Sorting and Refactoring__](https://www.frontiersin.org/articles/10.3389/fninf.2021.785068/full)  
+__Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2022), _Frontiers in Neuroinformatics_
+
 [__Usage and Scaling of an Open-Source Spiking Multi-Area Model of Monkey Cortex__](https://link.springer.com/chapter/10.1007/978-3-030-82427-3_4)  
 van Albada SJ, __Pronold J__, van Meegen A, Diesmann M (2021), _Brain-Inspired Computing_
 
 [__External electron injection, trapping, and emittance evolution in the blow-out regime__](https://doi.org/10.1063/1.5045355)  
 __Pronold J__, Thomas J, Pukhov J (2018), _Physics of Plasmas_
-
 
 [__Non-linear theory of a cavitated plasma wake in a plasma channel for special applications and control__](https://doi.org/10.1063/1.4948712)  
 Thomas J, Kostyukov IY, __Pronold J__, Golovanov A, Pukhov A (2016), _Physics of Plasmas_
@@ -18,9 +20,6 @@ Thomas J, Kostyukov IY, __Pronold J__, Golovanov A, Pukhov A (2016), _Physics of
 # __Preprints__
 [__A Modular Workflow for Performance Benchmarking of Neuronal Network Simulations__](https://arxiv.org/abs/2112.09018)  
 Albers J, __Pronold J__, Kurth AC, Vennemo SB, Mood KH, Patronis A, Terhorst D, Jordan J, Kunkel S, Tetzlaff T, Diesmann M, Senk J (2021), _arXiv_
-
-[__Routing brain traffic through the von Neumann bottleneck: Parallel sorting and refactoring__](https://arxiv.org/abs/2109.11358)  
-__Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _arXiv_
 
 [__Routing brain traffic through the von Neumann bottleneck: Efficient cache usage in spiking neural network simulation code on general purpose computers__](https://arxiv.org/abs/2109.12855)  
 __Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _arXiv_
