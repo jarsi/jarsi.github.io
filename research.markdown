@@ -6,7 +6,7 @@ permalink: research
 
 # __Peer reviewed papers__
 [__A Modular Workflow for Performance Benchmarking of Neuronal Network Simulations__](https://www.frontiersin.org/articles/10.3389/fninf.2022.837549/)  
-Albers J, __Pronold J__, Kurth AC, Vennemo SB, Mood KH, Patronis A, Terhorst D, Jordan J, Kunkel S, Tetzlaff T, Diesmann M, Senk J
+Albers J, __Pronold J__, Kurth AC, Vennemo SB, Mood KH, Patronis A, Terhorst D, Jordan J, Kunkel S, Tetzlaff T, Diesmann M, Senk J (2022), _Frontiers in Neuroinformatics_
 
 [__Routing Brain Traffic Through the Von Neumann Bottleneck: Parallel Sorting and Refactoring__](https://www.frontiersin.org/articles/10.3389/fninf.2021.785068/full)  
 __Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2022), _Frontiers in Neuroinformatics_
