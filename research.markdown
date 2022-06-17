@@ -5,6 +5,9 @@ permalink: research
 ---
 
 # __Peer reviewed papers__
+[__Fast simulation of a multi-area spiking network model of macaque cortex on an MPI-GPU cluster__](https://www.frontiersin.org/articles/10.3389/fninf.2022.883333/abstract)  
+Tiddia G, Golosio B, Albers J, Senk J, Simula F, __Pronold J__, Fanti V, Pastorelli E, Paolucci PS, van Albada SJ (2022), _Frontiers in Neuroinformatics_
+
 [__A Modular Workflow for Performance Benchmarking of Neuronal Network Simulations__](https://www.frontiersin.org/articles/10.3389/fninf.2022.837549/)  
 Albers J, __Pronold J__, Kurth AC, Vennemo SB, Mood KH, Patronis A, Terhorst D, Jordan J, Kunkel S, Tetzlaff T, Diesmann M, Senk J (2022), _Frontiers in Neuroinformatics_
 
@@ -82,6 +85,7 @@ _NEST conference - Ås, Norway - 2018_
 
 __NEST Simulator__
 
+[__NEST 3.3__](https://zenodo.org/record/6368024)  
 [__NEST 3.2__](https://doi.org/10.5281/zenodo.5886894)  
 [__NEST 3.0__](https://zenodo.org/record/4739103)  
 [__NEST 2.18.0__](https://zenodo.org/record/2605422)  
