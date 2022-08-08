@@ -6,7 +6,7 @@ permalink: research
 
 # __Peer reviewed papers__
 [__Routing brain traffic through the von Neumann bottleneck: Efficient cache usage in spiking neural network simulation code on general purpose computers__](https://www.sciencedirect.com/science/article/pii/S0167819122000461)  
-__Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2021), _Parallel Computing_
+__Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2022), _Parallel Computing_
 
 [__Fast simulation of a multi-area spiking network model of macaque cortex on an MPI-GPU cluster__](https://www.frontiersin.org/articles/10.3389/fninf.2022.883333/abstract)  
 Tiddia G, Golosio B, Albers J, Senk J, Simula F, __Pronold J__, Fanti V, Pastorelli E, Paolucci PS, van Albada SJ (2022), _Frontiers in Neuroinformatics_
