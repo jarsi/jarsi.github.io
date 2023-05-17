@@ -5,6 +5,9 @@ permalink: research
 ---
 
 # __Peer reviewed papers__
+[__Multi-Scale Spiking Network Model of Human Cerebral Cortex__](https://www.biorxiv.org/content/10.1101/2023.03.23.533968v1)  
+__Pronold J__, van Meegen A, Vollenbröker H, Shimoura RO, Senden M, Hilgetag CC, Bakker R, van Albada SJ (2023), _bioRxiv_
+  
 [__Routing brain traffic through the von Neumann bottleneck: Efficient cache usage in spiking neural network simulation code on general purpose computers__](https://www.sciencedirect.com/science/article/pii/S0167819122000461)  
 __Pronold J__, Jordan J, Wylie B, Kitayama I, Diesmann M, Kunkel S (2022), _Parallel Computing_
 
